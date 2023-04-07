@@ -21,8 +21,10 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🌱 Hansip's Garden"
+  "🌱 Hansip Garden"
 links:
+  - link_name: Main Website
+    link: https://hansip.net
   - link_name: Twitter
     link: https://twitter.com/hanif_af
   - link_name: GitHub
