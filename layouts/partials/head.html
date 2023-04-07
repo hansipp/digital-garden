@@ -250,15 +250,13 @@
   <script defer data-domain="{{$trimmedURL}}" src="https://plausible.io/js/script.js"></script>
   <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
   
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GoogleAnalyticsID}}"></script>
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4WV6MDZZWC"></script>
 <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    gtag('config', '{{ .Site.Params.GoogleAnalyticsID}}');
+  gtag('config', 'G-4WV6MDZZWC');
 </script>
-<!-- End of Global site tag (gtag.js) - Google Analytics -->
-  
 </head>
