@@ -3,25 +3,48 @@ title: 🌱 Hansip Garden
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://garden.hansip.net/posts/networked-thought) for free. Quartz features
+Selamat datang di **Hansip Digital Garden**. Ini merupakan **Digital Garden** yang dibuat sebagai tempat segala pemikiran saya, termasuk pemikiran yang belum matang. Saya membagikan berbagai ide dan hasil belajar kepada publik agar bisa berkolaborasi serta menciptakan dunia yang lebih baik lagi. Selamat menjelajahi kebun ini. 🍃
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://garden.hansip.net/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+> [!EXAMPLE] Fase Catatan Digital Garden 🌴
+> Setiap konten atau catatan pada Hansip Digital Garden memilki beberapa stage atau tahap. Hal ini selayaknya bercocok tanam di kebun, kita berusaha menanam benih dan merawatnya hingga menjadi pohon yang kokoh, lalu bisa dipanen manfaatnya.
+> 
+> - 🥜 **seed**: Benih berisi ide dasar dan kasar yang terdidiri dari beberapa kata atau poin saja.
+> - 🌱 **sprout**: Tunas yang berupa penjelasan dari ide dasar sebelumnya dengan lebih rinci.
+> - 🌿 **sapling**: Konten yang berisi informasi setengah matang tetapi telah didukung banyak sumber.
+> - 🌲 **evergreen**: Konten yang matang dan siap dipublikasi, biasanya hanya membutuhkan penyuntingan minor berkala.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+> [!warning] Ketentuan Umum Digital Garden 📢
+> **1. Saya Bisa Salah**
+> Tempat ini merupakan kebun informasi yang saya semai begitu saja kepada publik. Maka akan selalu ada informasi di kebun ini yang tidak utuh, keliru, bahkan bisa salah karena kurangnya pengetahuan saya. Sebagai pengunjung, Anda berhak marah tetapi tidak bisa mengendalikan apa yang telah saya pikirkan. Kebun ini adalah pemikiran hidup saya yang mungkin bisa berubah dan berbuah seiring waktu.
+> 
+> **2. Berikan Kritik Membangun**
+> Sebagai pengunjung kebun, Anda berhak memberi kritik melalui fitur komentar yang ada maupun menghubungi pemilik kebun digital melalui kanal media sosial lainnya. Saya sebagai pemilik kebun wajib menerima kritikan karena dengan begitu ilmu pengetahuan dapat dikembangkan lebih baik.
+> 
+> **3. Beri Atribusi, Jangan Plagiat**
+> Walau ini bukan blog utama saya, pemikiran mentah saya di kebun ini adalah milik saya pribadi. Anda bebas mengembangkan pemikiran saya di kebun Anda sendiri dengan memberikan atribusi atau tautan ke kebun digital saya ini. Mari saling menghargai dalam hal memupuk informasi.
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+
+
+## Kategori
+
+- [Teknologi](tags/teknologi)
+- [Sosiologi](tags/sosiologi)
+- [Hansip](/tags/hansip)
+- [Setup](tags/setup)
+
+
+
+
+### Buat Digital Garden Anda Sendiri
+> 📚 Step 1: [Setup your own digital garden](notes/setup.md)
+
+
+### My Links
+- 🏠 [Main Website](https://hansip.net/)
+- 🐦 [Twitter](https://twitter.com/Hanif_AF) 
+- 📸 [Instagram](https://instagram.com/hanif.af)
+- 📝 [Personal Blog](https://hansip.my.id/)
 
