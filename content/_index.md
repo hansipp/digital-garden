@@ -6,7 +6,7 @@ enableToc: false
 Selamat datang di **Hansip Digital Garden**. Ini merupakan **Digital Garden** yang dibuat sebagai tempat segala pemikiran saya, termasuk pemikiran yang belum matang. Saya membagikan berbagai ide dan hasil belajar kepada publik agar bisa berkolaborasi serta menciptakan dunia yang lebih baik lagi. Selamat menjelajahi kebun ini. 🍃
 
 
-> [!EXAMPLE] Fase Catatan Digital Garden 🌴
+> [!EXAMPLE] Fase Catatan Digital Garden
 > Setiap konten atau catatan pada Hansip Digital Garden memilki beberapa stage atau tahap. Hal ini selayaknya bercocok tanam di kebun, kita berusaha menanam benih dan merawatnya hingga menjadi pohon yang kokoh, lalu bisa dipanen manfaatnya.
 > 
 > - 🥜 **seed**: Benih berisi ide dasar dan kasar yang terdidiri dari beberapa kata atau poin saja.
@@ -15,8 +15,11 @@ Selamat datang di **Hansip Digital Garden**. Ini merupakan **Digital Garden** ya
 > - 🌲 **evergreen**: Konten yang matang dan siap dipublikasi, biasanya hanya membutuhkan penyuntingan minor berkala.
 
 
+----
 
-> [!warning] Ketentuan Umum Digital Garden 📢
+
+> [!warning] Ketentuan Umum Digital Garden
+> 
 > **1. Saya Bisa Salah**
 > Tempat ini merupakan kebun informasi yang saya semai begitu saja kepada publik. Maka akan selalu ada informasi di kebun ini yang tidak utuh, keliru, bahkan bisa salah karena kurangnya pengetahuan saya. Sebagai pengunjung, Anda berhak marah tetapi tidak bisa mengendalikan apa yang telah saya pikirkan. Kebun ini adalah pemikiran hidup saya yang mungkin bisa berubah dan berbuah seiring waktu.
 > 
@@ -28,13 +31,12 @@ Selamat datang di **Hansip Digital Garden**. Ini merupakan **Digital Garden** ya
 
 
 
-## Kategori
+## Jelajahi Kategori
 
+- [Semua Item](tags/all)
 - [Teknologi](tags/teknologi)
 - [Sosiologi](tags/sosiologi)
-- [Hansip](/tags/hansip)
 - [Setup](tags/setup)
-
 
 
 
