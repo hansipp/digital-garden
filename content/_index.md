@@ -9,11 +9,11 @@ Selamat datang di **Hansip Digital Garden** milik Hanif Ahmad Fauzi. Ini merupak
 
 ## 🌏 Jelajahi Topik
 
-- [Semua Item](tags/all)
-- [Teknologi](tags/teknologi)
+- [Semua Item](https://garden.hansip.net/tags/all/)
+- [Teknologi](https://garden.hansip.net/tags/teknologi/)
 - [Sosiologi](https://garden.hansip.net/tags/sosiologi/)
-- [Setup](tags/setup)
-
+- [Psikologi](https://garden.hansip.net/tags/psikologi/)
+- [Buku](https://garden.hansip.net/tags/buku/)
 
 ----
 
@@ -38,8 +38,8 @@ Selamat datang di **Hansip Digital Garden** milik Hanif Ahmad Fauzi. Ini merupak
 > **2. Berikan Kritik Membangun** ● 
 > Sebagai pengunjung kebun, Anda berhak memberi kritik melalui fitur komentar yang ada maupun menghubungi pemilik kebun digital melalui kanal media sosial lainnya. Saya sebagai pemilik kebun wajib menerima kritikan karena dengan begitu ilmu pengetahuan dapat dikembangkan lebih baik.
 > 
-> **3. Beri Atribusi, Jangan Plagiat** ● 
-> Walau ini bukan blog utama saya, pemikiran mentah saya di kebun ini adalah milik saya pribadi. Anda bebas mengembangkan pemikiran saya di kebun Anda sendiri dengan memberikan atribusi atau tautan ke kebun digital saya ini. Mari saling menghargai dalam hal memupuk informasi.
+> **3. Beri Atribusi** ● 
+> Walau ini bukan blog utama saya, pemikiran mentah saya di kebun ini adalah milik saya pribadi. Anda bebas mengembangkan pemikiran saya di kebun Anda sendiri dengan memberikan atribusi atau tautan ke kebun digital saya ini.
 
 
 ---
