@@ -9,7 +9,7 @@ Selamat datang di **Hansip Digital Garden** milik Hanif Ahmad Fauzi. Ini merupak
 
 ## 🌏 Jelajahi Topik
 
-- [Semua Item](tags/all)
+- [Semua Item](tags/all|Semua Item)
 - [Teknologi](tags/teknologi)
 - [Sosiologi](tags/sosiologi)
 - [Setup](tags/setup)
