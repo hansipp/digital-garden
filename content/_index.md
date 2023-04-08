@@ -5,6 +5,17 @@ enableToc: false
 
 Selamat datang di **Hansip Digital Garden**. Ini merupakan **Digital Garden** yang dibuat sebagai tempat segala pemikiran saya, termasuk pemikiran yang belum matang. Saya membagikan berbagai ide dan hasil belajar kepada publik agar bisa berkolaborasi serta menciptakan dunia yang lebih baik lagi. Selamat menjelajahi kebun ini. 🍃
 
+---
+
+## 🌏 Jelajahi Kategori
+
+- [Semua Item](tags/all)
+- [Teknologi](tags/teknologi)
+- [Sosiologi](tags/sosiologi)
+- [Setup](tags/setup)
+
+
+----
 
 > [!EXAMPLE] Fase Catatan Digital Garden
 >
@@ -31,20 +42,13 @@ Selamat datang di **Hansip Digital Garden**. Ini merupakan **Digital Garden** ya
 > Walau ini bukan blog utama saya, pemikiran mentah saya di kebun ini adalah milik saya pribadi. Anda bebas mengembangkan pemikiran saya di kebun Anda sendiri dengan memberikan atribusi atau tautan ke kebun digital saya ini. Mari saling menghargai dalam hal memupuk informasi.
 
 
+---
 
-## 🌏Jelajahi Kategori
-
-- [Semua Item](tags/all)
-- [Teknologi](tags/teknologi)
-- [Sosiologi](tags/sosiologi)
-- [Setup](tags/setup)
-
-
-### 🛰My Links
+### 🛰 My Links
 - 🏠 [Main Website](https://hansip.net/)
 - 🐦 [Twitter](https://twitter.com/Hanif_AF) 
 - 📸 [Instagram](https://instagram.com/hanif.af)
 - 📝 [Personal Blog](https://hansip.my.id/)
 
-### 🍀Buat Digital Garden Anda Sendiri
+### 🍀 Buat Digital Garden Kamu Sendiri
 > 📚 Step 1: [Setup your own digital garden](notes/setup.md)
