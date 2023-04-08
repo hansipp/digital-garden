@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "Hansip"
 enableToc: false
 tags:
 - tag01
@@ -11,4 +11,4 @@ tags:
 
 
 ---
-🔙 BACK TO: 
+🔙 BACK TO: [[_index]]
