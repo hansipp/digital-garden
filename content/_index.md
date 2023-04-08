@@ -3,11 +3,11 @@ title: 🌱 Hansip Garden
 enableToc: false
 ---
 
-Selamat datang di **Hansip Digital Garden**. Ini merupakan **Digital Garden** yang dibuat sebagai tempat segala pemikiran saya, termasuk pemikiran yang belum matang. Saya membagikan berbagai ide dan hasil belajar kepada publik agar bisa berkolaborasi serta menciptakan dunia yang lebih baik lagi. Selamat menjelajahi kebun ini. 🍃
+Selamat datang di **Hansip Digital Garden** milik Hanif Ahmad Fauzi. Ini merupakan **Digital Garden** yang dibuat sebagai tempat segala pemikiran saya, termasuk pemikiran yang belum matang sekalipun. Saya membagikan berbagai ide dan hasil belajar kepada publik agar bisa berkolaborasi serta menciptakan dunia yang lebih baik lagi. Selamat menjelajahi kebun ini. 🍃
 
 ---
 
-## 🌏 Jelajahi Kategori
+## 🌏 Jelajahi Topik
 
 - [Semua Item](tags/all)
 - [Teknologi](tags/teknologi)
