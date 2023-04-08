@@ -1,8 +1,9 @@
 ---
-title: "Sosiologi"
+title: "wiki"
 enableToc: false
 tags:
 - MOC
+
 ---
 
 

@@ -2,8 +2,8 @@
 title: "Hansip"
 enableToc: false
 tags:
-- tag01
-- tag02
+- MOC
+- Profile
 ---
 
 
@@ -11,4 +11,4 @@ tags:
 
 
 ---
-🔙 BACK TO: [[_index]]
+🔙 BACK TO: [Hansip Garden](https://garden.hansip.net/)
