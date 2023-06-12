@@ -54,6 +54,6 @@ Selamat datang di **Hansip Digital Garden** milik Hanif Ahmad Fauzi. Ini merupak
 > 📚 Step 1: [Setup your own digital garden](notes/setup.md)
 
 ---
-###### TOP MOC: [[sosiologi/Sosiologi]] - [[psikologi/Psikologi]] - [[peristiwa/Peristiwa]] - [[teknologi/Teknologi]] - [[wiki/Wiki|Wiki]] - [[bisnis/Bisnis|Bisnis]]
+###### TOP MOC: [[sosiologi/Sosiologi]] - [[psikologi/Psikologi]] - [[peristiwa/Peristiwa]] - [[teknologi/Teknologi]] - [[wiki/Wiki|Wiki]] - [[bisnis/Bisnis|Bisnis]] - [[marketing/Digital Marketing|Digital Marketing]]
 
 ---
