@@ -10,4 +10,4 @@ tags:
 
 
 ---
-🔙 BACK TO: [Hansip Garden](https://garden.hansip.net/)
+🔙 BACK TO: [Hansip Garden](https://garden.hansip.net/) [[_index]]
