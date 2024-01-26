@@ -1,13 +1,13 @@
 ---
-title: "6 Tokoh Teori Sosiologi Klasik"
+title: 6 Tokoh Teori Sosiologi Klasik
 enableToc: false
 tags:
-- sosiologi
-- all
+  - sosiologi
+  - all
 ---
 
 #### 1. August Comte (1798-1867)
-Berawal sebagai ahli filsafat dari Prancis. Orang Yang pertama kali menyematkan istilah sosiologi. Dikenal sebagai bapak sosiologi.
+Berawal sebagai ahli filsafat dari Prancis. Orang Yang pertama kali menyematkan istilah sosiologi. Dikenal sebagai bapak [[sosiologi/Sosiologi|Sosiologi]].
 
 Pemikiran Comte yang dianggap sangat penting adalah *"hukum tiga jenjang."* Menurut Comte, terdapat 3 jenjang yang akan dilewati oleh sejarah manusia, yaitu *1.) jenjang teologi*, di mana pada jenjang ini gejala yang terjadi di sekitar manusia dijelaskan sebagai gejaa yang bersifat akodrati, *2.) Jenjang metafisika*, jenjang di mana manusia dapat melewati kehidupannya menyandarkan diri pada kekuatan metafisik atau abstrak, *3.) Jenjang positif*, di mana hukum ilmiah digunakan untuk menjelaskan gelaja alam dan sosial. 
 
